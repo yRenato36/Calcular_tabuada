@@ -1,0 +1,24 @@
+h1 {
+    text-shadow: 2px 1px 3px black;
+}
+
+body {
+    background-color: #5751FD;
+    color: white;
+    text-align: center;
+    font: 20px arial;
+}
+
+div#gerada {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section#cubo {
+    background-color: #CD49E3;
+    padding: 10px;
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 1px 5px black;
+}
